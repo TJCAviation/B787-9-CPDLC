@@ -45822,7 +45822,7 @@ const boeingMsfsUserSettings = [
     },
     {
         name: 'boeingMsfsSelcal',
-        defaultValue: 'DM-ES',
+        defaultValue: 'QB-HS',
     },
 ];
 /**
@@ -77463,8 +77463,8 @@ B787PfdHorizonDisplay.PITCH_LADDER_BOUNDS = VecNMath.create(4, 409, 272, 869, 70
 B787PfdHorizonDisplay.FOV = 20;
 B787PfdHorizonDisplay.FOV_ENDPOINTS = VecNMath.create(4, 0.5 + B787PfdHorizonDisplay.PROJECTED_OFFSET[0] / B787PfdHorizonDisplay.PROJECTED_SIZE[0], 0.5 + B787PfdHorizonDisplay.PROJECTED_OFFSET[1] / B787PfdHorizonDisplay.PROJECTED_SIZE[1], 0.5 + B787PfdHorizonDisplay.PROJECTED_OFFSET[0] / B787PfdHorizonDisplay.PROJECTED_SIZE[0], B787PfdHorizonDisplay.PITCH_LADDER_BOUNDS[1] / B787PfdHorizonDisplay.PROJECTED_SIZE[1]);
 B787PfdHorizonDisplay.ARTIFICIAL_HORIZON_OPTIONS = {
-    groundColor: '#aa6d2a',
-    skyColor: '#006efb'
+    groundColor: '#7a4c0e',
+    skyColor: '#0a7cef'
 };
 B787PfdHorizonDisplay.HORIZON_LINE_CONFORMAL_BOUNDS = VecNMath.create(4, 100, 100, 1179, 819);
 B787PfdHorizonDisplay.PITCH_LADDER_OPTIONS = {

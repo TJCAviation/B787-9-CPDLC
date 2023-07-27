@@ -9,9 +9,9 @@ html {
   --boeing-colors-black-translucent: rgba(0, 0, 0, 0.2);
   --boeing-colors-black-translucent-border: rgba(0, 0, 0, 0.5);
   --boeing-colors-white: white;
-  --boeing-colors-gray: hsl(0, 0%, 70%);
-  --boeing-colors-dark-gray: hsl(0, 0%, 60%);
-  --boeing-colors-darker-gray: hsl(0, 0%, 40%);
+  --boeing-colors-gray: #737189;
+  --boeing-colors-dark-gray: #737189;
+  --boeing-colors-darker-gray: #4a485f;
   --boeing-colors-blue: hsl(230, 100%, 51%);
   --boeing-colors-cyan: hsl(192, 100%, 50%);
   --boeing-colors-red: red;
@@ -21,7 +21,7 @@ html {
   --boeing-colors-magenta: #ff00ff;
 
   /* Keep B787 colors in sync with B787Colors.ts */
-  --b78x-colors-separator-gray: #777;
+  --b78x-colors-separator-gray: #737189;
 
   --boeing-pane-height: 1425px;
   --boeing-pane-width-full: 1920px;
