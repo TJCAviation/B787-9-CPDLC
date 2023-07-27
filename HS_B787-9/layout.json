@@ -222,8 +222,8 @@
     },
     {
       "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/ALT/HSB787_9_ALT.js",
-      "size": 237,
-      "date": 133349497266932953
+      "size": 238,
+      "date": 133349513557060614
     },
     {
       "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/Data/gps_ephemeris.json",
@@ -501,6 +501,16 @@
       "date": 133349477298664255
     },
     {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/KRB787_8/ALT/KRB787_8_ALT.html",
+      "size": 1137,
+      "date": 133349548048919096
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/KRB787_8/ALT/KRB787_8_ALT.js",
+      "size": 237,
+      "date": 133349516942253548
+    },
+    {
       "path": "SimObjects/Airplanes/HS_B787_9/ai.cfg",
       "size": 791,
       "date": 133349477285200775
@@ -648,7 +658,7 @@
     {
       "path": "SimObjects/Airplanes/HS_B787_9/panel.GE.W/PANEL.CFG",
       "size": 1772,
-      "date": 133349477289877588
+      "date": 133349518023368896
     },
     {
       "path": "SimObjects/Airplanes/HS_B787_9/panel.RR/PANEL.CFG",
