@@ -1,0 +1,1044 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/HS_B787-9/Thumbnail.jpg",
+      "size": 8286,
+      "date": 133349465758327736
+    },
+    {
+      "path": "Effects/KR-LIGHT_787_CockpitMinimalAmbiant.fx",
+      "size": 1364,
+      "date": 133349465758327736
+    },
+    {
+      "path": "Effects/KR-LIGHT_787_CockpitSpot.fx",
+      "size": 1357,
+      "date": 133349465758327736
+    },
+    {
+      "path": "Effects/KR-LIGHT_787_CockpitSpotLarge.fx",
+      "size": 1358,
+      "date": 133349465758337737
+    },
+    {
+      "path": "Effects/KR-LIGHT_787_GaugeSmall.fx",
+      "size": 1359,
+      "date": 133349465758337737
+    },
+    {
+      "path": "Effects/KR-LIGHT_787_ScreenBlue.fx",
+      "size": 1358,
+      "date": 133349465758337737
+    },
+    {
+      "path": "Effects/KR-PZ-LIGHT_787_GlareshieldShort.fx",
+      "size": 1359,
+      "date": 133349465758347740
+    },
+    {
+      "path": "Effects/KR-PZ-LIGHT_787_GlareshieldShort1.fx",
+      "size": 1356,
+      "date": 133349465758347740
+    },
+    {
+      "path": "Effects/KR-PZ-LIGHT_787_GlareshieldShort2.fx",
+      "size": 1360,
+      "date": 133349465758353015
+    },
+    {
+      "path": "Effects/KR-PZ-LIGHT_787_GlareshieldShort3.fx",
+      "size": 1402,
+      "date": 133349465758353015
+    },
+    {
+      "path": "Effects/KR-PZ-LIGHT_787_GlareshieldShort4.fx",
+      "size": 1397,
+      "date": 133349465758353015
+    },
+    {
+      "path": "Effects/KR-PZ-LIGHT_787_GlareshieldShort5.fx",
+      "size": 1407,
+      "date": 133349465758362874
+    },
+    {
+      "path": "Effects/KR-PZ-LIGHT_787_GlareshieldShort6.fx",
+      "size": 1360,
+      "date": 133349465758362874
+    },
+    {
+      "path": "Effects/KR-PZ-LIGHT_787_GlareshieldShort7.fx",
+      "size": 1359,
+      "date": 133349465758362874
+    },
+    {
+      "path": "Effects/KR-PZ-LIGHT_787_overhead.fx",
+      "size": 1411,
+      "date": 133349465758372875
+    },
+    {
+      "path": "Effects/NL-HS-B787-BeaconBelly.fx",
+      "size": 5826,
+      "date": 133349465758372875
+    },
+    {
+      "path": "Effects/NL-HS-B787-BeaconBellyfixe.fx",
+      "size": 5823,
+      "date": 133349465758372875
+    },
+    {
+      "path": "Effects/NL-HS-B787-BeaconTop.fx",
+      "size": 5842,
+      "date": 133349465758382881
+    },
+    {
+      "path": "Effects/NL-HS-B787-BeaconTopfixe.fx",
+      "size": 5835,
+      "date": 133349465758382881
+    },
+    {
+      "path": "Effects/NL-HS-B787-LandingLarge\u002B.fx",
+      "size": 1317,
+      "date": 133349465758382881
+    },
+    {
+      "path": "Effects/NL-HS-B787-LandingLarge.fx",
+      "size": 4881,
+      "date": 133349465758392878
+    },
+    {
+      "path": "Effects/NL-HS-B787-LogoLightLarge.fx",
+      "size": 3694,
+      "date": 133349465758392878
+    },
+    {
+      "path": "Effects/NL-HS-B787-NavigationGreen.fx",
+      "size": 3553,
+      "date": 133349465758392878
+    },
+    {
+      "path": "Effects/NL-HS-B787-NavigationRed.fx",
+      "size": 3528,
+      "date": 133349465758402869
+    },
+    {
+      "path": "Effects/NL-HS-B787-NavigationWhite.fx",
+      "size": 3908,
+      "date": 133349465758402869
+    },
+    {
+      "path": "Effects/NL-HS-B787-Runway_Turnoff.fx",
+      "size": 4879,
+      "date": 133349465758402869
+    },
+    {
+      "path": "Effects/NL-HS-B787-StrobeSimple.fx",
+      "size": 3552,
+      "date": 133349465758412868
+    },
+    {
+      "path": "Effects/NL-HS-B787-Takeoff\u002B.fx",
+      "size": 1317,
+      "date": 133349465758412868
+    },
+    {
+      "path": "Effects/NL-HS-B787-Takeoff.fx",
+      "size": 4881,
+      "date": 133349465758418156
+    },
+    {
+      "path": "Effects/NL-HS-B787-TaxiLarge.fx",
+      "size": 4873,
+      "date": 133349465758418156
+    },
+    {
+      "path": "Effects/NL-HS-B787-WingLarge.FX",
+      "size": 3909,
+      "date": 133349465758428006
+    },
+    {
+      "path": "Effects/texture/NLHS-ALLO.dds",
+      "size": 1048704,
+      "date": 133349465758473120
+    },
+    {
+      "path": "Effects/texture/NLHS-ALLO.DDS.json",
+      "size": 119,
+      "date": 133349465758428006
+    },
+    {
+      "path": "Effects/texture/NLHS-Landing-L.dds",
+      "size": 1048704,
+      "date": 133349465758593448
+    },
+    {
+      "path": "Effects/texture/NLHS-LANDING-L.DDS.json",
+      "size": 102,
+      "date": 133349465758483122
+    },
+    {
+      "path": "Effects/texture/NLHS-LIGHT.dds",
+      "size": 1048704,
+      "date": 133349465758538262
+    },
+    {
+      "path": "Effects/texture/NLHS-LIGHT.DDS.json",
+      "size": 119,
+      "date": 133349465758483122
+    },
+    {
+      "path": "Effects/texture/NLHS-STROBE.dds",
+      "size": 1048704,
+      "date": 133349465758648601
+    },
+    {
+      "path": "Effects/texture/NLHS-STROBE.DDS.json",
+      "size": 119,
+      "date": 133349465758603453
+    },
+    {
+      "path": "Effects/texture/NLHS-taxy-L.dds",
+      "size": 1048704,
+      "date": 133349465758703740
+    },
+    {
+      "path": "Effects/texture/NLHS-TAXY-L.DDS.json",
+      "size": 102,
+      "date": 133349465758653909
+    },
+    {
+      "path": "html_ui/Fonts/MCP-787-Regular.ttf",
+      "size": 6736,
+      "date": 133349465779228811
+    },
+    {
+      "path": "html_ui/Fonts/MCP-Mode-787-Regular.ttf",
+      "size": 47608,
+      "date": 133349465779238804
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/ALT/HSB787_9_ALT.html",
+      "size": 1137,
+      "date": 133349465779248801
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/ALT/HSB787_9_ALT.js",
+      "size": 237,
+      "date": 133349465779248801
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/Data/gps_ephemeris.json",
+      "size": 32295,
+      "date": 133349465779258820
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/Data/gps_sbas.json",
+      "size": 3496,
+      "date": 133349465779268798
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/fonts/b78x.ttf",
+      "size": 15196,
+      "date": 133349465779288808
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/fonts/MCP-787-Regular.ttf",
+      "size": 6736,
+      "date": 133349465779268798
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/fonts/MCP-Mode-787-Regular.ttf",
+      "size": 47608,
+      "date": 133349465779278812
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/icons/airport_c.png",
+      "size": 681,
+      "date": 133349465779298803
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/icons/airport_g.png",
+      "size": 679,
+      "date": 133349465779298803
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/icons/airport_m.png",
+      "size": 657,
+      "date": 133349465779298803
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/icons/dme.png",
+      "size": 448,
+      "date": 133349465779308820
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/icons/flightplan.png",
+      "size": 850,
+      "date": 133349465779308820
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/icons/flightplan_c.png",
+      "size": 850,
+      "date": 133349465779313985
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/icons/flightplan_circle_magenta.png",
+      "size": 657,
+      "date": 133349465779323939
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/icons/flightplan_circle_white.png",
+      "size": 694,
+      "date": 133349465779323939
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/icons/flightplan_m.png",
+      "size": 829,
+      "date": 133349465779323939
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/icons/intersection.png",
+      "size": 815,
+      "date": 133349465779333951
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/icons/MapIcons.svg",
+      "size": 7291,
+      "date": 133349465779288808
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/icons/ndb.png",
+      "size": 1385,
+      "date": 133349465779333951
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/icons/ownship_outline.svg",
+      "size": 795,
+      "date": 133349465779343929
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/icons/ownship_tri.svg",
+      "size": 410,
+      "date": 133349465779343929
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/icons/sta_dme.png",
+      "size": 440,
+      "date": 133349465779353942
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/icons/sta_ndb.png",
+      "size": 732,
+      "date": 133349465779353942
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/icons/sta_tacan.png",
+      "size": 923,
+      "date": 133349465779353942
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/icons/sta_vor.png",
+      "size": 585,
+      "date": 133349465779363939
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/icons/sta_vordme.png",
+      "size": 493,
+      "date": 133349465779363939
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/icons/sta_vortac.png",
+      "size": 908,
+      "date": 133349465779383930
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/icons/tacan.png",
+      "size": 1205,
+      "date": 133349465779383930
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/icons/tod.png",
+      "size": 679,
+      "date": 133349465779393953
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/icons/vor.png",
+      "size": 807,
+      "date": 133349465779393953
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/icons/vordme.png",
+      "size": 846,
+      "date": 133349465779403931
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/icons/vortac.png",
+      "size": 1311,
+      "date": 133349465779403931
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/images/cdu/INPUT_FIELD_BG_END.png",
+      "size": 189,
+      "date": 133349465779413930
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/images/cdu/INPUT_FIELD_BG_MID.png",
+      "size": 154,
+      "date": 133349465779413930
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/images/cdu/INPUT_FIELD_BG_START.png",
+      "size": 192,
+      "date": 133349465779423931
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/images/cdu/INPUT_FIELD_BG_WHITE_END.png",
+      "size": 189,
+      "date": 133349465779423931
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/images/cdu/INPUT_FIELD_BG_WHITE_MID.png",
+      "size": 154,
+      "date": 133349465779423931
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Assets/images/cdu/INPUT_FIELD_BG_WHITE_START.png",
+      "size": 192,
+      "date": 133349465779433950
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/EFB/EFB789.css",
+      "size": 12413,
+      "date": 133349465779503928
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/EFB/EFB789.js",
+      "size": 299507,
+      "date": 133349465779619079
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/EFB/HSB789_EFB.html",
+      "size": 525,
+      "date": 133349465779679043
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/HUD/HSB789_HUD.html",
+      "size": 525,
+      "date": 133349465779749052
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/HUD/HUD789.css",
+      "size": 37206,
+      "date": 133349465779819058
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/HUD/HUD789.js",
+      "size": 3188673,
+      "date": 133349465780179044
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/MCP/HSB789_MCP.html",
+      "size": 385,
+      "date": 133349465780239074
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/MCP/MCP789.css",
+      "size": 2113,
+      "date": 133349465780249046
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/MCP/MCP789.js",
+      "size": 11050,
+      "date": 133349465780809345
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/MFD/HSB789_MFD.GE.html",
+      "size": 732,
+      "date": 133349465780869349
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/MFD/HSB789_MFD.RR.html",
+      "size": 732,
+      "date": 133349465780939345
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/MFD/MFD789.GE.css",
+      "size": 125686,
+      "date": 133349465781014437
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/MFD/MFD789.GE.js",
+      "size": 6346698,
+      "date": 133349465781784439
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/MFD/MFD789.RR.css",
+      "size": 125686,
+      "date": 133349465781804445
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/MFD/MFD789.RR.js",
+      "size": 6343195,
+      "date": 133349465782464770
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/PFD/HSB789_PFD.html",
+      "size": 951,
+      "date": 133349465782534789
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/PFD/PFD789.css",
+      "size": 55934,
+      "date": 133349465782614767
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/PFD/PFD789.js",
+      "size": 3889450,
+      "date": 133349465783015117
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/Airliners/HSB787_9/Shared/HSB787_9_FCU.css",
+      "size": 1491,
+      "date": 133349465783025111
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/ai.cfg",
+      "size": 791,
+      "date": 133349465766070461
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/aircraft.cfg",
+      "size": 7830,
+      "date": 133349465766130468
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/aircraft.loc",
+      "size": 16372,
+      "date": 133349465766140469
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/approach.flt",
+      "size": 5292,
+      "date": 133349465766150448
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/apron.flt",
+      "size": 5539,
+      "date": 133349465766150448
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/cameras.cfg",
+      "size": 30814,
+      "date": 133349465766160469
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/Climb.flt",
+      "size": 5298,
+      "date": 133349465758974027
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/cockpit.cfg",
+      "size": 5111,
+      "date": 133349465766170468
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/Cruise.flt",
+      "size": 5297,
+      "date": 133349465758984022
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/engines.cfg",
+      "size": 8186,
+      "date": 133349465766250444
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/Final.flt",
+      "size": 5271,
+      "date": 133349465758984022
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/flight_model.cfg",
+      "size": 33529,
+      "date": 133349465766320460
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/gameplay.cfg",
+      "size": 1152,
+      "date": 133349465766330470
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/hangar.flt",
+      "size": 3647,
+      "date": 133349465766330470
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/Notice.txt",
+      "size": 255,
+      "date": 133349465758994021
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/runway.FLT",
+      "size": 5297,
+      "date": 133349465771686051
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/systems.cfg",
+      "size": 29443,
+      "date": 133349466112412175
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/target_performance.cfg",
+      "size": 1839,
+      "date": 133349465779208805
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/taxi.flt",
+      "size": 5236,
+      "date": 133349465779218792
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/Checklist/boeing787-9_Checklist.xml",
+      "size": 10020,
+      "date": 133349465758974027
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/Checklist/Library.xml",
+      "size": 41736,
+      "date": 133349465758904016
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/model.GE/B787.xml",
+      "size": 21655,
+      "date": 133349465766340463
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/model.GE/B787_lod1.bin",
+      "size": 60135572,
+      "date": 133349465770856050
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/model.GE/B787_lod1.gltf",
+      "size": 1817734,
+      "date": 133349465771006060
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/model.GE/model.CFG",
+      "size": 700,
+      "date": 133349465771016064
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/model.RR/model.CFG",
+      "size": 725,
+      "date": 133349465771086044
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/panel.GE/PANEL.CFG",
+      "size": 1950,
+      "date": 133349465771336051
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/panel.GE.R/PANEL.CFG",
+      "size": 1773,
+      "date": 133349465771146071
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/panel.GE.RW/PANEL.CFG",
+      "size": 1595,
+      "date": 133349465771216055
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/panel.GE.W/PANEL.CFG",
+      "size": 1772,
+      "date": 133349465771276046
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/panel.RR/PANEL.CFG",
+      "size": 1950,
+      "date": 133349465771636065
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/panel.RR.R/PANEL.CFG",
+      "size": 1773,
+      "date": 133349465771396066
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/panel.RR.RW/PANEL.CFG",
+      "size": 1599,
+      "date": 133349465771496058
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/panel.RR.W/PANEL.CFG",
+      "size": 1772,
+      "date": 133349465771566055
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/rtc/animations/PlaneShowcase_COCKPIT.bin",
+      "size": 90252,
+      "date": 133349465771646060
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/rtc/animations/PlaneShowcase_COCKPIT.gltf",
+      "size": 17599,
+      "date": 133349465771656069
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/rtc/animations/PlaneShowcase_GROUND.bin",
+      "size": 73868,
+      "date": 133349465771656069
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/rtc/animations/PlaneShowcase_GROUND.gltf",
+      "size": 14458,
+      "date": 133349465771666047
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/rtc/definitions/RTC_EMPTY.spb",
+      "size": 234,
+      "date": 133349465771666047
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/rtc/definitions/RTC_Hangar.spb",
+      "size": 2464,
+      "date": 133349465771676054
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/soundGE/Asobo_B787_10.PC.PCK",
+      "size": 49314083,
+      "date": 133349465775361719
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/soundGE/sound.xml",
+      "size": 37872,
+      "date": 133349465775421731
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/soundRR/Asobo_B787_10.PC.PCK",
+      "size": 49314083,
+      "date": 133349465779008809
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/soundRR/sound.xml",
+      "size": 37872,
+      "date": 133349465779058813
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/787_10_AIRFRAME_787_ALBD.PNG.DDS",
+      "size": 4224,
+      "date": 133349465763661439
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/787_10_AIRFRAME_787_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 133349465763661439
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/787_10_AIRFRAME_DECALS2_ALBD.PNG.DDS",
+      "size": 4194432,
+      "date": 133349465763821392
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/787_10_AIRFRAME_DECALS2_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 133349465763821392
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/787_10_AIRFRAME_ENGBLURRED_ALBD.PNG.DDS",
+      "size": 1152,
+      "date": 133349465763831383
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/787_10_AIRFRAME_ENGBLURRED_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 133349465763831383
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/787_10_AIRFRAME_ENGINE_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 133349465763971403
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/787_10_AIRFRAME_ENGINE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133349465763971403
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/787_10_AIRFRAME_ENGSLOW_ALBD.PNG.DDS",
+      "size": 1152,
+      "date": 133349465763981403
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/787_10_AIRFRAME_ENGSLOW_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 133349465763981403
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/787_10_AIRFRAME_LIVERY1_ALBD.PNG.DDS",
+      "size": 16777344,
+      "date": 133349465764494866
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/787_10_AIRFRAME_LIVERY1_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133349465764504867
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/787_10_AIRFRAME_LIVERY2_ALBD.PNG.DDS",
+      "size": 4224,
+      "date": 133349465764504867
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/787_10_AIRFRAME_LIVERY2_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 133349465764514856
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/787_10_AIRFRAME_LOD6_ALBD.PNG.DDS",
+      "size": 1152,
+      "date": 133349465764514856
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/787_10_AIRFRAME_LOD6_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133349465764514856
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/787_10_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 133349465765300465
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/787_10_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133349465765310473
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/787_10_AIRFRAME_WINGS_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 133349465765780454
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/787_10_AIRFRAME_WINGS_COMP.PNG.DDS.FLAGS",
+      "size": 21,
+      "date": 133349465765790460
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/787_10_AIRFRAME_WINGS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 133349465765790460
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/787_8_COCKPIT_TEXTS1_ALBD.TIF.DDS",
+      "size": 1398276,
+      "date": 133349465765900462
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/787_8_COCKPIT_TEXTS1_ALBD.TIF.DDS.json",
+      "size": 119,
+      "date": 133349465765900462
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/787_8_COCKPIT_TEXTS1_EMIS.TIF.DDS",
+      "size": 1398276,
+      "date": 133349465766020465
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/787_8_COCKPIT_TEXTS1_EMIS.TIF.DDS.json",
+      "size": 102,
+      "date": 133349465766020465
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/LIVERY_KLM.PNG.DDS",
+      "size": 4224,
+      "date": 133349465766030452
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/LIVERY_KLM.PNG.DDS.json",
+      "size": 119,
+      "date": 133349465766030452
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/texture.CFG",
+      "size": 335,
+      "date": 133349465766040458
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/thumbnail.JPG",
+      "size": 195031,
+      "date": 133349465766060461
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE/thumbnail_small.JPG",
+      "size": 39147,
+      "date": 133349465766060461
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.GE/787_10_AIRFRAME_ENGINE_COMP.PNG.dds",
+      "size": 4194452,
+      "date": 133349465759314031
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.GE/787_10_AIRFRAME_ENGINE_COMP.PNG.DDS.FLAGS",
+      "size": 21,
+      "date": 133349465758994021
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.GE/787_10_AIRFRAME_ENGINE_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 133349465758994021
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.GE/787_10_AIRFRAME_ENGSTILL_ALBD.PNG.dds",
+      "size": 8388736,
+      "date": 133349465759554014
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.GE/787_10_AIRFRAME_ENGSTILL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133349465759314031
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.GE/787_10_AIRFRAME_ENGSTILL_COMP.PNG.DDS",
+      "size": 8388736,
+      "date": 133349465759954016
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.GE/787_10_AIRFRAME_ENGSTILL_COMP.PNG.DDS.FLAGS",
+      "size": 21,
+      "date": 133349465759954016
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.GE/787_10_AIRFRAME_ENGSTILL_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 133349465759964016
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.GE/787_8_AIRFRAME_ENGINEL_ALBD.PNG.DDS",
+      "size": 16777344,
+      "date": 133349465760744026
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.GE/787_8_AIRFRAME_ENGINEL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133349465760754023
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.GE/787_8_AIRFRAME_ENGINER_ALBD.PNG.DDS",
+      "size": 16777344,
+      "date": 133349465761483974
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.GE/787_8_AIRFRAME_ENGINER_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133349465761493978
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.GE/texture.CFG",
+      "size": 373,
+      "date": 133349465761493978
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.GE/thumbnail.JPG",
+      "size": 193301,
+      "date": 133349465761513985
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.GE/thumbnail_small.JPG",
+      "size": 39126,
+      "date": 133349465761523989
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.RR/787_10_AIRFRAME_ENGINE_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 133349465761980953
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.RR/787_10_AIRFRAME_ENGINE_COMP.PNG.DDS.FLAGS",
+      "size": 21,
+      "date": 133349465761980953
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.RR/787_10_AIRFRAME_ENGINE_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 133349465761990946
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.RR/787_10_AIRFRAME_ENGSTILL_ALBD.PNG.DDS",
+      "size": 4194432,
+      "date": 133349465762120960
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.RR/787_10_AIRFRAME_ENGSTILL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133349465762130965
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.RR/787_10_AIRFRAME_ENGSTILL_COMP.PNG.DDS",
+      "size": 1398276,
+      "date": 133349465762240961
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.RR/787_10_AIRFRAME_ENGSTILL_COMP.PNG.DDS.FLAGS",
+      "size": 21,
+      "date": 133349465762240961
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.RR/787_10_AIRFRAME_ENGSTILL_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 133349465762240961
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.RR/787_8_AIRFRAME_ENGINEL_ALBD.PNG.DDS",
+      "size": 16777344,
+      "date": 133349465763007167
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.RR/787_8_AIRFRAME_ENGINEL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133349465763007167
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.RR/787_8_AIRFRAME_ENGINER_ALBD.PNG.DDS",
+      "size": 16777344,
+      "date": 133349465763627191
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.RR/787_8_AIRFRAME_ENGINER_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133349465763627191
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.RR/texture.CFG",
+      "size": 373,
+      "date": 133349465763637188
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.RR/thumbnail.JPG",
+      "size": 195031,
+      "date": 133349465763647199
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/TEXTURE.RR/thumbnail_small.JPG",
+      "size": 39147,
+      "date": 133349465763661439
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9-TEST/aircraft.cfg",
+      "size": 2114,
+      "date": 133349465758844013
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9-TEST/TEXTURE.TEST/texture.CFG",
+      "size": 411,
+      "date": 133349465758764020
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9-TEST/TEXTURE.TEST/thumbnail.JPG",
+      "size": 88561,
+      "date": 133349465758774025
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9-TEST/TEXTURE.TEST/thumbnail_small.JPG",
+      "size": 20532,
+      "date": 133349465758774025
+    }
+  ]
+}
