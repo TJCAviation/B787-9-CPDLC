@@ -567,8 +567,8 @@
     },
     {
       "path": "SimObjects/Airplanes/HS_B787_9/flight_model.cfg",
-      "size": 33529,
-      "date": 133349477285270796
+      "size": 35301,
+      "date": 133349659772273670
     },
     {
       "path": "SimObjects/Airplanes/HS_B787_9/gameplay.cfg",
@@ -636,8 +636,23 @@
       "date": 133349477289857604
     },
     {
+      "path": "SimObjects/Airplanes/HS_B787_9/model.RR/B787.xml",
+      "size": 21655,
+      "date": 133349477285290791
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/model.RR/B787_lod1.bin",
+      "size": 60135572,
+      "date": 133349477289707607
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9/model.RR/B787_lod1.gltf",
+      "size": 1817734,
+      "date": 133349477289847591
+    },
+    {
       "path": "SimObjects/Airplanes/HS_B787_9/model.RR/model.CFG",
-      "size": 725,
+      "size": 700,
       "date": 133349477289857604
     },
     {
@@ -678,7 +693,7 @@
     {
       "path": "SimObjects/Airplanes/HS_B787_9/panel.RR.W/PANEL.CFG",
       "size": 1772,
-      "date": 133349477289907608
+      "date": 133349661668088170
     },
     {
       "path": "SimObjects/Airplanes/HS_B787_9/rtc/animations/PlaneShowcase_COCKPIT.bin",
@@ -1031,22 +1046,42 @@
       "date": 133349477282830696
     },
     {
-      "path": "SimObjects/Airplanes/HS_B787_9-TEST/aircraft.cfg",
-      "size": 2114,
-      "date": 133349477278122312
+      "path": "SimObjects/Airplanes/HS_B787_9-GE-TEST/aircraft.cfg",
+      "size": 2117,
+      "date": 133349658749076176
     },
     {
-      "path": "SimObjects/Airplanes/HS_B787_9-TEST/TEXTURE.TEST/texture.CFG",
+      "path": "SimObjects/Airplanes/HS_B787_9-GE-TEST/TEXTURE.GE-TEST/texture.CFG",
       "size": 411,
       "date": 133349477278102304
     },
     {
-      "path": "SimObjects/Airplanes/HS_B787_9-TEST/TEXTURE.TEST/thumbnail.JPG",
+      "path": "SimObjects/Airplanes/HS_B787_9-GE-TEST/TEXTURE.GE-TEST/thumbnail.JPG",
       "size": 88561,
       "date": 133349477278112303
     },
     {
-      "path": "SimObjects/Airplanes/HS_B787_9-TEST/TEXTURE.TEST/thumbnail_small.JPG",
+      "path": "SimObjects/Airplanes/HS_B787_9-GE-TEST/TEXTURE.GE-TEST/thumbnail_small.JPG",
+      "size": 20532,
+      "date": 133349477278112303
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9-RR-TEST/aircraft.cfg",
+      "size": 2117,
+      "date": 133349658624930868
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9-RR-TEST/TEXTURE.RR-TEST/texture.CFG",
+      "size": 411,
+      "date": 133349658165410566
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9-RR-TEST/TEXTURE.RR-TEST/thumbnail.JPG",
+      "size": 88561,
+      "date": 133349477278112303
+    },
+    {
+      "path": "SimObjects/Airplanes/HS_B787_9-RR-TEST/TEXTURE.RR-TEST/thumbnail_small.JPG",
       "size": 20532,
       "date": 133349477278112303
     }
