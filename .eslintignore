@@ -1,0 +1,7 @@
+build*.js
+buildSrc/*
+igniter.config.mjs
+target/*
+CMakeFiles/*
+cmake*
+BlipBlop-789/build/*
