@@ -1,11 +1,13 @@
 {
-    "name": "Blip-Blop-787-900",
+    "name": "Horizon Sim 787-900",
     "version": "1.0.0",
     "edition": "Stable",
-    "author": "Yago Martínez",
+    "author": "Yago Martínez(Qbit) & Horizon Sim",
     "scripts": {
-        "prep-BB789:copy-base-package":"mkdir -p BlipBlop-789/build/blipblop-aircraft-787-9 && (rsync -a BlipBlop-789/src/base/blipblop-aircraft-787-9 BlipBlop-789/build/ || cp -a -u BlipBlop-789/src/base/blipblop-aircraft-787-9 BlipBlop-789/build/)",
-        "build-BB789:model":"node BlipBlop-789/src/models/build.js"
+        "prep-HS789:copy-base-package":"bash ./Scripts/copy.sh",
+        "build-HS789:build":"bash ./Scripts/build.sh",
+        "build-HS780:models":"node HorizonSim-789/src/models/build.js",
+        "final-HS789:layout":"cd ./Scripts && MSFSLayoutGenerator.exe ..\\HorizonSim-789\\build\\horizonsim-aircraft-787-9\\layout.json"
     },
     "lint-staged": {
         "*.{js,mjs,jsx}": "eslint --cache --fix",

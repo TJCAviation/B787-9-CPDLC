@@ -5,7 +5,7 @@
       "es2021": true
     },
     "ignorePatterns": [
-      "/BlipBlop-789/build/blipblop-aircraft-787-9/html_ui/**"
+      "/HorizonSim-789/build/blipblop-aircraft-787-9/html_ui/**"
     ],
     // DO NOT CHANGE THIS FILE (unless you are an admin) (if admin, make sure you change the same file in the latest asobo branch as well)
     "rules": {

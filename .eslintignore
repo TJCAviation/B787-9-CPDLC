@@ -4,4 +4,4 @@ igniter.config.mjs
 target/*
 CMakeFiles/*
 cmake*
-BlipBlop-789/build/*
+HorizonSim-789/build/*
