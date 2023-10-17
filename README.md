@@ -3,7 +3,7 @@
 # Horizon Simulations 787-9
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-blue) [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] 
 
-We want to welcome you to the Horizon Simulations 787-9, this is a modified version of the default 787-10 that asobo offers with the premium delux version, as such you **MUST** own the premium deluxe version of Microsoft Flight Simulator in order to use this aircraft. We have also expanded upon this aircraft to ensure a better simulation of the aircraft.
+We want to welcome you to the Horizon Simulations 787-9, this is a modified version of the default 787-10 that asobo offers with the premium deluxe version, as such you **MUST** own the premium deluxe version of Microsoft Flight Simulator in order to use this aircraft. We have also expanded upon this aircraft to ensure a better simulation of the aircraft.
 
 ### Boeing 787-9
 
@@ -11,27 +11,33 @@ We want to welcome you to the Horizon Simulations 787-9, this is a modified vers
 Model  B787-9
 Engine Rolls Royce Trent 1000
 APU    APS5000
-FMS
 ```
 ```
 Model  B787-9
 Engine GEnx-1B70
 APU    APS5000
-FMS
 ```
-## Insert credits or whatever
 
 ## Developer Section
 ### Requirements
     WSL2 
-    python
-    NodeJs v16
+    Python 3
+    NodeJS v18 LTS
 ### How to build
 To set up your enviroment run: 
 run:
 ```shell
-npx igniter
+npm i --save-dev
 ```
+
+Build the project:
+```
+npm run prep-hs789:copy-base-package-linux
+npm run build-hs789:copy-model-linux
+npm run build-hs789:metadata
+npm run build-hs789:manifest
+```
+
 DONE!
 
 ## License Information
