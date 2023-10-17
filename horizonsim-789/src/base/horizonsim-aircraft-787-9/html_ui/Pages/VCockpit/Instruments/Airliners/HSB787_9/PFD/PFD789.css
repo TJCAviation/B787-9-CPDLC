@@ -2750,37 +2750,37 @@ wtb78x-pfd #Electricity,
 }
 
 #LeftSection {
-  width: 33.33333%;
+  width: 33.12629%;
   height: 100%;
   border-right: 2px solid #fff;
 }
 
 #UpperSection {
   position: absolute;
-  width: 66.66666%;
-  left: 33.33333%;
+  width: 66.25258%;
+  left: 33.12629%;
   height: 64.5%;
   top: 0;
 }
 
 #LowerSection {
   position: absolute;
-  width: 66.66666%;
-  left: 33.33333%;
+  width: 66.25258%;
+  left: 33.12629%;
   top: 64.5%;
   height: 35.5%;
 }
 
 #FakeBackground {
   height: 100%;
-  width: 66.2%;
+  width: 65.78881%;
   position: absolute;
   top: 0;
-  left: 33.6%;
+  left: 33.39130%;
 }
 
 #FakeBackground img {
-  width: 100%;
+  width: 99.37888198757764%;
   opacity: 0.5;
   /* display: none; */
 }
@@ -2796,6 +2796,16 @@ wtb78x-pfd #Electricity,
   border-right: 3px solid black;
 }
 
+#Separator2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 12px;
+  height: 100%;
+  background-color: var(--b78x-colors-separator-gray);
+  border-left: 1px solid black;
+  border-right: 3px solid black;
+}
 #FixBleed {
   position: absolute;
   top: 0px;
