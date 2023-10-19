@@ -42709,7 +42709,7 @@ const boeingMsfsUserSettings = [
     },
     {
         name: 'boeingMsfsSelcal',
-        defaultValue: 'HS-WT',
+        defaultValue: 'HS-KR',
     },
     {
         name: 'boeingMsfsSatCom',
@@ -43123,7 +43123,7 @@ class FlapComputer {
 FlapComputer.ANGLE_TOLERANCE = 0.25;
 
 /**
- * Standard Boeing 787-10 names for backplane instruments and publishers.
+ * Standard Boeing 787-9 names for backplane instruments and publishers.
  */
 var InstrumentBackplaneNames;
 (function (InstrumentBackplaneNames) {
@@ -71293,7 +71293,7 @@ class B787PerformanceMath extends BoeingPerformanceDataProvider {
 
 /* eslint-disable max-len */
 /**
- * A provider of Boeing 787-10 reference airspeeds.
+ * A provider of Boeing 787-9 reference airspeeds.
  */
 class B787SpeedData extends AbstractBoeingSpeedProvider {
     /**
@@ -71802,7 +71802,7 @@ class B787TCAS extends BoeingTCAS {
 
 /// <reference types="@microsoft/msfs-types/js/avionics" />
 /**
- * A common instrument for the B787-10 displays.
+ * A common instrument for the B787-9 displays.
  */
 class WTB78xFsInstrument {
     /**
@@ -75026,7 +75026,7 @@ PfdBaroHEventHandler.MIN_RAW = 15169;
 PfdBaroHEventHandler.MAX_RAW = 17344;
 
 /**
- * A Boeing 787-10 PFD instrument.
+ * A Boeing 787-9 PFD instrument.
  * Primary Flight Display showing the the basic flight instruments.
  */
 class WTB78xPfdInstrument extends WTB78xFsInstrument {
@@ -75145,7 +75145,7 @@ class WTB78xPfdInstrument extends WTB78xFsInstrument {
 
 /// <reference types="@microsoft/msfs-types/js/common" />
 /**
- * A Boeing 787-10 PFD BaseInstrument.
+ * A Boeing 787-9 PFD BaseInstrument.
  */
 class HSB789_PFD extends FsBaseInstrument {
     /** @inheritdoc */

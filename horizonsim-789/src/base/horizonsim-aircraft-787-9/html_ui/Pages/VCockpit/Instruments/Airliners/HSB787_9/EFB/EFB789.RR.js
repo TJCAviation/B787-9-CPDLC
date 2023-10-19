@@ -42868,7 +42868,7 @@ B787TakeoffCalculator.emptyResult = {
 
 /* eslint-disable max-len */
 /**
- * V-Speed data for the B787-10.
+ * V-Speed data for the B787-9.
  */
 class B787VSpeedData {
     /** @inheritDoc */
@@ -44617,7 +44617,7 @@ class B787TCAS extends BoeingTCAS {
 
 /// <reference types="@microsoft/msfs-types/js/avionics" />
 /**
- * A common instrument for the B787-10 displays.
+ * A common instrument for the B787-9 displays.
  */
 class WTB78xFsInstrument {
     /**

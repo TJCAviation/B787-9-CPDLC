@@ -55252,7 +55252,7 @@ class B787TCAS extends BoeingTCAS {
 
 /// <reference types="@microsoft/msfs-types/js/avionics" />
 /**
- * A common instrument for the B787-10 displays.
+ * A common instrument for the B787-9 displays.
  */
 class WTB78xFsInstrument {
     /**
