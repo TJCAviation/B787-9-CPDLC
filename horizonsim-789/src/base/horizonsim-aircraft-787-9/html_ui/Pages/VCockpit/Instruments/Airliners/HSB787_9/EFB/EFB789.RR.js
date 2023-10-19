@@ -35565,9 +35565,9 @@ class BoeingPerformanceDataProvider {
      */
     calculateFuelFlowFromThrust(thrust, ramDrag) {
         if (ramDrag !== undefined) {
-            return (thrust + ramDrag) * this.aircraftFlightModel.ThrustSpecificFuelConsumption * 0.6 ;0.8441
+            return (thrust + ramDrag) * this.aircraftFlightModel.ThrustSpecificFuelConsumption ;0.8441
         }
-        return thrust * this.aircraftFlightModel.ThrustSpecificFuelConsumption * 0.6 ;0.8441
+        return thrust * this.aircraftFlightModel.ThrustSpecificFuelConsumption ;0.8441
     }
     /**
      * Calculates corrected gross thrust from corrected N1 and mach.
@@ -44055,7 +44055,7 @@ class B787PerformanceMath extends BoeingPerformanceDataProvider {
             low_idle_n1: 20,
             mach_influence_on_n1: 10,
             static_thrust: 69533,// Trent 1000-D
-            ThrustSpecificFuelConsumption: 0.273,
+            ThrustSpecificFuelConsumption: 0.252,
             /** Output: Thrust scalar; Term 1: Mach; Term 2: CN1 */
             n1_and_mach_on_thrust_table: new LerpLookupTable([
                 [0, 0, 0], [0, 0.4, 0], [0, 0.8, 0], [0, 0.9, 0],
