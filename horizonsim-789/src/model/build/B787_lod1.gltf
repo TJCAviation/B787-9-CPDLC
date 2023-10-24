@@ -56852,54 +56852,54 @@
             "name": "x0_WINDSHIELD"
         },
         {
-            "primitives": [
-                {
-                    "attributes": {
-                        "COLOR_0": 3401,
-                        "NORMAL": 3402,
-                        "POSITION": 3403,
-                        "TANGENT": 3404,
-                        "TEXCOORD_0": 3405,
-                        "TEXCOORD_1": 3406
-                    },
-                    "indices": 3407,
-                    "material": 35,
-                    "mode": 4,
-                    "extras": {
-                        "ASOBO_primitive": {
-                            "PrimitiveCount": 2,
-                            "VertexType": "VTX",
-                            "VertexVersion": 2
-                        }
-                    }
-                }
-            ],
-            "name": "x0_HublotIn_001"
+			"primitives": [
+				{
+					"attributes": {
+						"COLOR_0": 2907,
+						"NORMAL": 2904,
+						"POSITION": 2902,
+						"TANGENT": 2903,
+						"TEXCOORD_0": 2905,
+						"TEXCOORD_1": 2906
+					},
+					"indices": 2908,
+					"material": 31,
+					"mode": 4,
+					"extras": {
+						"ASOBO_primitive": {
+							"PrimitiveCount": 22202,
+							"VertexType": "VTX",
+							"VertexVersion": 2
+						}
+					}
+				}
+			],
+			"name": "x0_HublotIn_001"
         },
         {
-            "primitives": [
-                {
-                    "attributes": {
-                        "COLOR_0": 3401,
-                        "NORMAL": 3402,
-                        "POSITION": 3403,
-                        "TANGENT": 3404,
-                        "TEXCOORD_0": 3405,
-                        "TEXCOORD_1": 3406
-                    },
-                    "indices": 3407,
-                    "material": 35,
-                    "mode": 4,
-                    "extras": {
-                        "ASOBO_primitive": {
-                            "PrimitiveCount": 2,
-                            "VertexType": "VTX",
-                            "VertexVersion": 2
-                        }
-                    }
-                }
-            ],
-            "name": "x0_HublotIn_002"
+			"primitives": [
+				{
+					"attributes": {
+						"COLOR_0": 2914,
+						"NORMAL": 2911,
+						"POSITION": 2909,
+						"TANGENT": 2910,
+						"TEXCOORD_0": 2912,
+						"TEXCOORD_1": 2913
+					},
+					"indices": 2915,
+					"material": 31,
+					"mode": 4,
+					"extras": {
+						"ASOBO_primitive": {
+							"PrimitiveCount": 22202,
+							"VertexType": "VTX",
+							"VertexVersion": 2
+						}
+					}
+				}
+			],
+			"name": "x0_HublotIn_002"
         },
         {
             "primitives": [
@@ -57029,28 +57029,28 @@
             "name": "x0_Livery_KLM_FuselageB"
         },
         {
-            "primitives": [
-                {
-                    "attributes": {
-                        "COLOR_0": 3401,
-                        "NORMAL": 3402,
-                        "POSITION": 3403,
-                        "TANGENT": 3404,
-                        "TEXCOORD_0": 3405,
-                        "TEXCOORD_1": 3406
-                    },
-                    "indices": 3407,
-                    "material": 35,
-                    "mode": 4,
-                    "extras": {
-                        "ASOBO_primitive": {
-                            "PrimitiveCount": 2,
-                            "VertexType": "VTX",
-                            "VertexVersion": 2
-                        }
-                    }
-                }
-            ],
+			"primitives": [
+				{
+					"attributes": {
+						"COLOR_0": 2949,
+						"NORMAL": 2946,
+						"POSITION": 2944,
+						"TANGENT": 2945,
+						"TEXCOORD_0": 2947,
+						"TEXCOORD_1": 2948
+					},
+					"indices": 2950,
+					"material": 9,
+					"mode": 4,
+					"extras": {
+						"ASOBO_primitive": {
+							"PrimitiveCount": 316,
+							"VertexType": "VTX",
+							"VertexVersion": 2
+						}
+					}
+				}
+			],
             "name": "x0_Glass"
         },
         {
@@ -69705,6 +69705,7 @@
                 509,
                 512,
                 514,
+                515,
                 517,
                 518,
                 520,
