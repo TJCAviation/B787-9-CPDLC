@@ -46,7 +46,7 @@ This repository and it's contents are dual-licensed (GPLv3 and CC BY-NC-SA 4.0),
 
 ### Game Content User
 
-The Horizon Simulations 787-9 was created under the Microsoft's "Game Content Usage RUles" using assets from Microsoft Flight Simulator 2020. It is not affiliated, associated, authorized, ednorsed by with Mictosoft
+The Horizon Simulations 787-9 was created under the Microsoft's "Game Content Usage Rules" using assets from Microsoft Flight Simulator 2020. It is not affiliated, associated, authorized, ednorsed by with Mictosoft
 
 ### Disclamer
 
@@ -59,9 +59,12 @@ Content within distribution packages built from the soures in this repository ar
 - Original assets from Horizon Simulations, Qbit Simulations & [Kuro](https://github.com/Kurorin-fs): [CC BY-NC-SA 4.0][cc-by-nc-sa].
 - Assets covered by the "Game Content Usage Rules": Under the license granted by those rules.
 
+ <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Horizon-Simulations/HS-B787-9">Horizon Simulations 787-9</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://horizonsimulations.com">Horizon Simulations, Qbit Simulations & Kuro</a> is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0</p> 
+ 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
 
