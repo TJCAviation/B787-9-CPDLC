@@ -31567,7 +31567,7 @@ class FlapComputer {
 FlapComputer.ANGLE_TOLERANCE = 0.25;
 
 /**
- * Standard Boeing 787-10 names for backplane instruments and publishers.
+ * Standard Boeing 787-9 names for backplane instruments and publishers.
  */
 var InstrumentBackplaneNames;
 (function (InstrumentBackplaneNames) {
@@ -54634,15 +54634,15 @@ B787EngineData.n1_tpr_lookup = new LerpLookupTable([
 class B787PerformanceMath extends BoeingPerformanceDataProvider {
     /** @inheritDoc */
     get operatingEmptyWeight() {
-        return 284000; // 128,820 kg
+        return 250000; // 113,398 kg
     }
     /** @inheritDoc */
     get maxZeroFuelWeight() {
-        return 400000; // 181,435kg
+        return 400000; // 181,436kg
     }
     /** @inheritDoc */
     get maxGrossWeight() {
-        return 561500; // 254,700 kg
+        return 563000; // 255,372 kg
     }
     /** @inheritDoc */
     get maxReserveFuel() {
@@ -54674,7 +54674,7 @@ class B787PerformanceMath extends BoeingPerformanceDataProvider {
             low_idle_n1: 20,
             mach_influence_on_n1: 10,
             static_thrust: 72299,// GEnx-1B70/75/P2
-            ThrustSpecificFuelConsumption: 0.259,
+            ThrustSpecificFuelConsumption: 0.260,
             /** Output: Thrust scalar; Term 1: Mach; Term 2: CN1 */
             n1_and_mach_on_thrust_table: new LerpLookupTable([
                 [0, 0, 0], [0, 0.4, 0], [0, 0.8, 0], [0, 0.9, 0],
@@ -54727,7 +54727,7 @@ class B787PerformanceMath extends BoeingPerformanceDataProvider {
 
 /* eslint-disable max-len */
 /**
- * A provider of Boeing 787-10 reference airspeeds.
+ * A provider of Boeing 787-9 reference airspeeds.
  */
 class B787SpeedData extends AbstractBoeingSpeedProvider {
     /**
@@ -59754,7 +59754,7 @@ class HudBrightnessInputHandler {
 
 /// <reference types="@microsoft/msfs-types/js/avionics" />
 /**
- * A Boeing 787-10 HUD instrument.
+ * A Boeing 787-9 HUD instrument.
  */
 class WTB78xHudInstrument extends WTB78xFsInstrument {
     /**
@@ -59845,7 +59845,7 @@ class WTB78xHudInstrument extends WTB78xFsInstrument {
 
 /// <reference types="@microsoft/msfs-types/js/common" />
 /**
- * A Boeing 787-10 HUD BaseInstrument.
+ * A Boeing 787-9 HUD BaseInstrument.
  */
 class HSB789_HUD extends FsBaseInstrument {
     /** @inheritdoc */

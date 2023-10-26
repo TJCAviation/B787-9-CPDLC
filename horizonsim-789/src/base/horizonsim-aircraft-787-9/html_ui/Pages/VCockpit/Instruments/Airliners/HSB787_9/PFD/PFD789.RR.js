@@ -71184,15 +71184,15 @@ B787EngineData.n1_tpr_lookup = new LerpLookupTable([
 class B787PerformanceMath extends BoeingPerformanceDataProvider {
     /** @inheritDoc */
     get operatingEmptyWeight() {
-        return 284000; // 128,820 kg
+        return 250000; // 113,398 kg
     }
     /** @inheritDoc */
     get maxZeroFuelWeight() {
-        return 400000; // 181,435kg
+        return 400000; // 181,436kg
     }
     /** @inheritDoc */
     get maxGrossWeight() {
-        return 561500; // 254,700 kg
+        return 563000; // 255,372 kg
     }
     /** @inheritDoc */
     get maxReserveFuel() {
@@ -71224,7 +71224,7 @@ class B787PerformanceMath extends BoeingPerformanceDataProvider {
             low_idle_n1: 20,
             mach_influence_on_n1: 10,
             static_thrust: 74502,// Trent 1000-D3
-            ThrustSpecificFuelConsumption: 0.258,
+            ThrustSpecificFuelConsumption: 0.259,
             /** Output: Thrust scalar; Term 1: Mach; Term 2: CN1 */
             n1_and_mach_on_thrust_table: new LerpLookupTable([
                 [0, 0, 0], [0, 0.4, 0], [0, 0.8, 0], [0, 0.9, 0],
