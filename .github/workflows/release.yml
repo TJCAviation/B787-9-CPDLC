@@ -1,0 +1,73 @@
+name: release
+on:
+  push:
+    tags:
+      - 'v*'
+      - '!v*-alpha*'
+      - '!v*-beta*'
+      - '!v*-streamer*'
+      - '!v*-rc*'
+jobs:
+  build-hs789:
+    runs-on: ubuntu-latest
+    env:
+      PRE_RELEASE_ID: 64125785
+      PRE_RELEASE_TAG: vstable
+      ZIP_NAME: hs-b787-9-${{ github.ref_name }}.zip
+      BUILD_DIR_NAME: stable
+    steps:
+      - name: Free Disk Space (Ubuntu)
+        uses: jlumbroso/free-disk-space@main
+        with:
+          tool-cache: false
+          android: true
+          dotnet: false
+          haskell: false
+          large-packages: false
+          docker-images: false
+          swap-storage: false
+      - name: Checkout source
+        uses: actions/checkout@v3
+      - name: Set BUILT_DATE_TIME
+        run: echo "BUILT_DATE_TIME=$(date -u -Iseconds)" >> $GITHUB_ENV
+      - name: Delete old GitHub Pre-Release assets
+        uses: mknejp/delete-release-assets@v1
+        with:
+          token: ${{ github.token }}
+          tag: ${{ env.PRE_RELEASE_TAG }}
+          assets: "*"
+          fail-if-no-assets: false
+          fail-if-no-release: false
+      - name: Install required dependencies
+        run: |
+            npm i --save-dev
+      - name: Copy Sources
+        run: |
+            npm run prep-hs789:copy-base-package-linux
+            npm run build-hs789:copy-model-linux
+      - name: Finalize built package
+        run: |
+            npm run build-hs789:metadata
+            npm run build-hs789:manifest
+      - name: Generate HorizonSim-789 ZIP file
+        run: |
+          ./scripts/dev-env/run.sh node ./scripts/fragment_hs789.js
+          cp ./horizonsim-789/build/build-modules/modules.json ./horizonsim-789/build/horizonsim-aircraft-787-9/install.json
+          ./scripts/dev-env/run.sh node ./scripts/install-source-hs789.js
+          mkdir ./${{ env.BUILD_DIR_NAME }}
+          cd ./horizonsim-789/build/
+          zip -r ../../${{ env.BUILD_DIR_NAME }}/${{ env.ZIP_NAME }} ./horizonsim-aircraft-787-9/
+          cd ../../
+      - name: Upload to Cloudflare CDN
+        env:
+          CLOUDFLARE_WORKER_PASSWORD: ${{ secrets.CLOUDFLARE_WORKER_PASSWORD }}
+          CDN_BUCKET_DESTINATION: addons/horizonsim-789/release
+        run: |
+          ./scripts/cdn.sh $CDN_BUCKET_DESTINATION ./horizonsim-789/build/build-modules
+      - name: Upload to Google Drive
+        uses: adityak74/google-drive-upload-git-action@main
+        with:
+          credentials: ${{ secrets.GDRIVE_CREDS_B789 }}
+          filename: ./${{ env.BUILD_DIR_NAME }}/${{ env.ZIP_NAME}}
+          folderId: ${{ secrets.GDRIVEFOLDERID }}
+          overwrite: "true" # optional boolean
