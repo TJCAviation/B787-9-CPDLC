@@ -48451,26 +48451,7 @@
         },
         {
             "primitives": [
-                {
-                    "attributes": {
-                        "COLOR_0": 1171,
-                        "NORMAL": 1168,
-                        "POSITION": 1166,
-                        "TANGENT": 1167,
-                        "TEXCOORD_0": 1169,
-                        "TEXCOORD_1": 1170
-                    },
-                    "indices": 1172,
-                    "material": 5,
-                    "mode": 4,
-                    "extras": {
-                        "ASOBO_primitive": {
-                            "PrimitiveCount": 191,
-                            "VertexType": "VTX",
-                            "VertexVersion": 2
-                        }
-                    }
-                }
+                {}
             ],
             "name": "x0_Livery_KLM_Rudder"
         },
