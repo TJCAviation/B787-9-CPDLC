@@ -1,0 +1,36 @@
+<ModelBehaviors>
+    <Template Name="ASOBO_GT_Interaction_NoInteraction">
+        <Switch Param="NODE_ID">
+            <Default>
+                <DefaultTemplateParameters>
+                    <MOUSEFLAGS/>
+                    <DISABLE_INTERACTION_LOCK>True</DISABLE_INTERACTION_LOCK>
+                </DefaultTemplateParameters>
+
+                <UseTemplate Name="ASOBO_GT_MouseRect">
+                    <CALLBACKCODE>0</CALLBACKCODE>
+                </UseTemplate>
+            </Default>
+
+            <Case Value="COM_Push_Accept_#ID#">
+                <UseTemplate Name="KURO_B788_COM_Accept_Template">
+                    <ID>#ID#</ID>
+                </UseTemplate>
+            </Case>
+
+            <Case Value="COM_Push_Cancel_#ID#">
+                <UseTemplate Name="KURO_B788_COM_Cancel_Template">
+                    <ID>#ID#</ID>
+                </UseTemplate>
+            </Case>
+
+            <Case Value="COM_Push_Reject_#ID#">
+                <UseTemplate Name="KURO_B788_COM_Reject_Template">
+                    <ID>#ID#</ID>
+                </UseTemplate>
+            </Case>
+            <Case Value="TRANSPONDER_Knob_Mode">
+            </Case>
+        </Switch>
+    </Template>
+</ModelBehaviors>

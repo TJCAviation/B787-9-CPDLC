@@ -1,0 +1,4 @@
+<ModelBehaviors>
+    <Include RelativeFile="Interactions.xml"/>
+    <Include RelativeFile="Animations.xml"/>
+</ModelBehaviors>

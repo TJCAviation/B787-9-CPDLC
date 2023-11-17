@@ -72480,6 +72480,22 @@ class FlightDataBlock extends DisplayComponent {
     /** @inheritdoc */
     render() {
         return (FSComponent.buildComponent("div", { class: "flight-data-block-container" },
+/* atc-uplink */
+            FSComponent.buildComponent("div", { class: "hs-atc-uplink0" },
+                FSComponent.buildComponent("div", { class: "hs-atc-uplink1", ref: this.el },
+                    FSComponent.buildComponent("div", { class: "hs-atc-uplink2 hs-atc-uplink3" },
+                        FSComponent.buildComponent("div", {class: "hs-atc-uplinkT"}, "ATC UPLINK"),
+                        FSComponent.buildComponent("div", {class: "hs-atc-uplinkLR"},
+                            FSComponent.buildComponent("span", { class: "hs-atc-uplinkW"}, "0000z"),
+                            FSComponent.buildComponent("span", { class: "hs-atc-uplinkW"}, "FROM HORIZONSIM")),
+                        FSComponent.buildComponent("div", {class: "hs-atc-uplinkC"}, "&nbsp;"),
+                        FSComponent.buildComponent("div", { class: "hs-atc-uplinkL" }, "cleared to yssy bndt05.crger then as filed,\nclb via sid exc maint 4000ft, expect fl320 10 min aft dp,\ndpfrq 126.67,\nsquawk 7250, term a thru e ctc ramp for push, cargo fbo acft 119.95 for taxi."),
+                        /**FSComponent.buildComponent("div", { class: "hs-atc-uplinkL" }, "LOVE 787-8"),*/
+                        FSComponent.buildComponent("div", {class: "hs-atc-uplinkC"}, "&nbsp;"),
+                        FSComponent.buildComponent("div", {class: "hs-atc-uplinkLR"},
+                            FSComponent.buildComponent("span", { class: "hs-atc-uplinkG"}, "ACCEPT"),
+                            FSComponent.buildComponent("span", { class: "hs-atc-uplinkW"}, "STBY"))))),
+            /* atc-uplink */
             FSComponent.buildComponent("div", { class: "flight-datablock-upper-section" },
                 FSComponent.buildComponent("div", { class: "flight-datablock-indications" },
                     FSComponent.buildComponent("div", { class: "flight-datablock-row" },

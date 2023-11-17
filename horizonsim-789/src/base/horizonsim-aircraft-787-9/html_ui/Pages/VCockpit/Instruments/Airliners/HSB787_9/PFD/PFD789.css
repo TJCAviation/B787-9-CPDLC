@@ -2806,3 +2806,76 @@ wtb78x-pfd #Electricity,
   border-top: 1px solid black;
   pointer-events: none;
 }
+
+/* atc-uplink */
+
+.hs-atc-uplinkW {
+  text-align: center;
+  color: var(--boeing-colors-white);
+}
+.hs-atc-uplinkG {
+  text-align: center;
+  color: var(--boeing-colors-green);
+}
+.hs-atc-uplink0 {
+  position: relative;
+  font-size: 38px;
+  line-height: 33px;
+  color: var(--boeing-colors-white);
+  text-transform: uppercase;
+}
+.hs-atc-uplink1 {
+  position: absolute;
+  top: 360px;
+  left: -10px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.hs-atc-uplink2 {
+  color: var(--boeing-colors-white);
+  border: 5px solid var(--boeing-colors-white);
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+}
+.hs-atc-uplink3 {
+  margin-top: 30px;
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.hs-atc-uplinkLR {
+  display: flex;
+  justify-content: space-between;
+  word-break:break-normal;
+  margin-right: 14px;
+}
+.hs-atc-uplinkT {
+  margin-top: 4px;
+  align-items: center;
+  text-align: center;
+  word-break:break-normal;
+  white-space: pre-wrap;
+}
+.hs-atc-uplinkC {
+  align-items: center;
+  text-align: center;
+  word-break:break-normal;
+  white-space: pre-wrap;
+}
+.hs-atc-uplinkL {
+  align-items: left;
+  text-align: left;
+  word-break:break-normal;
+  white-space: pre-wrap;
+}
+.hs-atc-uplinkR {
+  align-items: right;
+  text-align: right;
+  word-break:break-normal;
+  white-space: pre-wrap;
+}

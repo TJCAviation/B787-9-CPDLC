@@ -1,0 +1,41 @@
+<ModelBehaviors>
+    <Template Name="KURO_B788_COM_Accept_Template">
+        <DefaultTemplateParameters>
+            <ID>1</ID>
+            <NODE_ID>COM_Push_Accept_#ID#</NODE_ID>
+            <ANIM_NAME>COM_Push_Accept_#ID#</ANIM_NAME>
+            <IS_AIRLINER>true</IS_AIRLINER>
+            <NO_SEQ2/>
+        </DefaultTemplateParameters>
+        <UseTemplate Name="ASOBO_GT_Push_Button_Airliner">
+            <WWISE_EVENT_1>battery_switch_on</WWISE_EVENT_1>
+            <WWISE_EVENT_2>battery_switch_off</WWISE_EVENT_2>
+        </UseTemplate>
+    </Template>
+    <Template Name="KURO_B788_COM_Cancel_Template">
+        <DefaultTemplateParameters>
+            <ID>1</ID>
+            <NODE_ID>COM_Push_Cancel_#ID#</NODE_ID>
+            <ANIM_NAME>COM_Push_Cancel_#ID#</ANIM_NAME>
+            <IS_AIRLINER>true</IS_AIRLINER>
+            <NO_SEQ2/>
+        </DefaultTemplateParameters>
+        <UseTemplate Name="ASOBO_GT_Push_Button_Airliner">
+            <WWISE_EVENT_1>battery_switch_on</WWISE_EVENT_1>
+            <WWISE_EVENT_2>battery_switch_off</WWISE_EVENT_2>
+        </UseTemplate>
+    </Template>
+    <Template Name="KURO_B788_COM_Reject_Template">
+        <DefaultTemplateParameters>
+            <ID>1</ID>
+            <NODE_ID>COM_Push_Reject_#ID#</NODE_ID>
+            <ANIM_NAME>COM_Push_Reject_#ID#</ANIM_NAME>
+            <IS_AIRLINER>true</IS_AIRLINER>
+            <NO_SEQ2/>
+        </DefaultTemplateParameters>
+        <UseTemplate Name="ASOBO_GT_Push_Button_Airliner">
+            <WWISE_EVENT_1>battery_switch_on</WWISE_EVENT_1>
+            <WWISE_EVENT_2>battery_switch_off</WWISE_EVENT_2>
+        </UseTemplate>
+    </Template>
+</ModelBehaviors>
