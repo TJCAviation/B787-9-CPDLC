@@ -12,21 +12,37 @@
                 </UseTemplate>
             </Default>
 
-            <Case Value="COM_Push_Accept_#ID#">
-                <UseTemplate Name="KURO_B788_COM_Accept_Template">
-                    <ID>#ID#</ID>
+            <Case Value="COM_Push_Accept_1">
+                <UseTemplate Name="HorizonSim_B789_COM_Accept_Template">
+                    <ID>1</ID>
                 </UseTemplate>
             </Case>
 
-            <Case Value="COM_Push_Cancel_#ID#">
-                <UseTemplate Name="KURO_B788_COM_Cancel_Template">
-                    <ID>#ID#</ID>
+            <Case Value="COM_Push_Cancel_1">
+                <UseTemplate Name="HorizonSim_B789_COM_Cancel_Template">
+                    <ID>1</ID>
                 </UseTemplate>
             </Case>
 
-            <Case Value="COM_Push_Reject_#ID#">
-                <UseTemplate Name="KURO_B788_COM_Reject_Template">
-                    <ID>#ID#</ID>
+            <Case Value="COM_Push_Reject_1">
+                <UseTemplate Name="HorizonSim_B789_COM_Reject_Template">
+                    <ID>1</ID>
+                </UseTemplate>
+            </Case>
+			
+			<Case Value="COM_Push_Accept_2">
+                <UseTemplate Name="HorizonSim_B789_COM_Accept_Template">
+                    <ID>2</ID>
+                </UseTemplate>
+            </Case>
+            <Case Value="COM_Push_Cancel_2">
+                <UseTemplate Name="HorizonSim_B789_COM_Cancel_Template">
+                    <ID>2</ID>
+                </UseTemplate>
+            </Case>
+            <Case Value="COM_Push_Reject_2">
+                <UseTemplate Name="HorizonSim_B789_COM_Reject_Template">
+                    <ID>2</ID>
                 </UseTemplate>
             </Case>
             <Case Value="TRANSPONDER_Knob_Mode">

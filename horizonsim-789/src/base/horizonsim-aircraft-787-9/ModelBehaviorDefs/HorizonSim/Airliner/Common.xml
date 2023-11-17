@@ -1,5 +1,5 @@
 <ModelBehaviors>
-    <Template Name="KURO_B788_COM_Accept_Template">
+    <Template Name="HorizonSim_B789_COM_Accept_Template">
         <DefaultTemplateParameters>
             <ID>1</ID>
             <NODE_ID>COM_Push_Accept_#ID#</NODE_ID>
@@ -12,7 +12,7 @@
             <WWISE_EVENT_2>battery_switch_off</WWISE_EVENT_2>
         </UseTemplate>
     </Template>
-    <Template Name="KURO_B788_COM_Cancel_Template">
+    <Template Name="HorizonSim_B789_COM_Cancel_Template">
         <DefaultTemplateParameters>
             <ID>1</ID>
             <NODE_ID>COM_Push_Cancel_#ID#</NODE_ID>
@@ -25,7 +25,7 @@
             <WWISE_EVENT_2>battery_switch_off</WWISE_EVENT_2>
         </UseTemplate>
     </Template>
-    <Template Name="KURO_B788_COM_Reject_Template">
+    <Template Name="HorizonSim_B789_COM_Reject_Template">
         <DefaultTemplateParameters>
             <ID>1</ID>
             <NODE_ID>COM_Push_Reject_#ID#</NODE_ID>
